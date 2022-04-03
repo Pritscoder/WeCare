@@ -107,18 +107,20 @@
             </div>   
         </div>
 
-        <div class="base mt-5">
-            <a class="navbar-brand" href="index.jsp">WECARE</a>
-            <div class="footer m-5">
-                <div class="function">
+        <div class="base mt-3">
+                       <div class="footer m-5">
+                           <div class="head">
+                                <a class="navbar-brand  mt-5 care" href="index.jsp">WECARE</a>
+                           </div>
+                <div class="function mt-4">
                     <h5><a href="workouts.jsp">WORKOUTS</a></h5>
-                    <h5><a href="#">HEALTHY LIVING</a></h5>
+                    <h5><a href="Hliving.jsp">HEALTHY LIVING</a></h5>
                     <h5><a href="#">MEDITATION</a></h5>
                 </div>
-                <div class="abt">
+                <div class="abt mt-4">
                     <h5><a href="#">ABOUT</a></h5>
                     <h5><a href="#">LOGIN</a></h5>
-                </div>
+                </div> 
             </div>
         </div>
     </body>

@@ -34,10 +34,10 @@
         <a class="nav-link" href="workouts.jsp">WORKOUTS<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#">HEALTHY LIVING<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="Hliving.jsp">HEALTHY LIVING<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#">MEDITATION<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="meditation.jsp">MEDITATION<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="#">ABOUT<span class="sr-only">(current)</span></a>
