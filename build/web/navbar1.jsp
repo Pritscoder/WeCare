@@ -39,7 +39,7 @@
                             <a class="nav-link" href="meditation.jsp">MEDITATION <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="#">ABOUT<span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="about.jsp">ABOUT<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
                             <a class="nav-link" href="login.jsp">LOGIN<span class="sr-only">(current)</span></a>

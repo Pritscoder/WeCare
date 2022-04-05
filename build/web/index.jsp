@@ -25,7 +25,7 @@
                     <div class="txt text-center">
                         <h1 style="color:white;">Welcome to WeCare</h1>
                         <p style="color:white;">The Fitness facility for all of your needs</p>
-                        <a class="btn btn-success join"  href="login.jsp">JOIN</a>
+                        <a class="btn btn-success join"  href="register.jsp">JOIN</a>
                     </div>
                 </div>
             </div>
@@ -115,11 +115,11 @@
                 <div class="function mt-4">
                     <h5><a href="workouts.jsp">WORKOUTS</a></h5>
                     <h5><a href="Hliving.jsp">HEALTHY LIVING</a></h5>
-                    <h5><a href="#">MEDITATION</a></h5>
+                    <h5><a href="meditation.jsp">MEDITATION</a></h5>
                 </div>
                 <div class="abt mt-4">
-                    <h5><a href="#">ABOUT</a></h5>
-                    <h5><a href="#">LOGIN</a></h5>
+                    <h5><a href="about.jsp">ABOUT</a></h5>
+                    <h5><a href="login.jsp">LOGIN</a></h5>
                 </div> 
             </div>
         </div>
